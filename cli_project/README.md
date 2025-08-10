@@ -109,3 +109,13 @@ To fully implement the MCP features:
 ### Linting and Typing Check
 
 There are no lint or type checks implemented.
+
+### After add tools to mcp_server.py, run
+
+```
+mcp dev mcp_server.py
+```
+Then MCP inspecter localhost web page will open. it is very useful...
+
+- run and check tools is possible from there.
+- 
