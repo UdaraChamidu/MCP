@@ -119,3 +119,10 @@ Then MCP inspecter localhost web page will open. it is very useful...
 
 - run and check tools is possible from there.
 - 
+
+### To see and othe details of tools
+```uv run mcp_client.py```
+
+### Check document content
+```uv run main.py```
+and ask questions about documents. (this part gave an error.)
