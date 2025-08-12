@@ -1,7 +1,0 @@
-.env
-__pycache__
-.venv
-.DS_Store
-.env/
-uv.*/       # Ignore all uv.* files
-.venv/
