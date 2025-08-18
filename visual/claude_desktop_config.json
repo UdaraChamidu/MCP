@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "visual": {
+      "command": "uv",
+      "args": ["--directory", 
+              "C:/github/visual", 
+              "run", 
+              "visual.py"]
+    }
+  }
+}
